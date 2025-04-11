@@ -1,10 +1,5 @@
 # Advanced_Soybean_Agricultural_Dataset_Analysis
  
-Great! Since the dataset filename is now `"3_duplicates_removed.csv"`, I’ll make sure to use that in the guide.
-
-Here’s a clean, beginner-friendly but still professional-style `README.md` template tailored for your project:
-
----
 
 ## 🧠 `shap-cluster-lens`  
 _**Interpretable Clustering Analysis using SHAP on Soybean Production Data**_
