@@ -4,12 +4,6 @@
 
 This project explores the clustering of soybean samples based on production quantity and quality metrics. We evaluate clustering quality using SHAP (SHapley Additive exPlanations) to interpret the importance of input features in defining cluster assignments. The goal is to identify meaningful groupings and understand what drives them.
 
----
-
-
-
----
-
 ### Dataset
 
 The dataset (`3_duplicates_removed.csv`) contains key phenotypic traits of soybean samples, including:
